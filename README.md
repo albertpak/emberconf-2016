@@ -4,6 +4,12 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 ![https://twitter.com/rwjblue/status/714861314569424896](https://pbs.twimg.com/media/Ceuyk2dWEAILjH_.jpg)
 
+---
+
+[Play by Play notes](https://usecanvas.com/dockyard/emberconf-2016/288vBvk9XoyPi2yoEl2GHn)
+
+---
+
 ## Day 1
 
 ### Photos
